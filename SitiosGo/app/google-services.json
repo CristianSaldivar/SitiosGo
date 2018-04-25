@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378588770948",
+    "firebase_url": "https://sitiosgo-249df.firebaseio.com",
+    "project_id": "sitiosgo-249df",
+    "storage_bucket": "sitiosgo-249df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378588770948:android:de1ebb0a4551c1e7",
+        "android_client_info": {
+          "package_name": "com.example.feliz.sitiosgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378588770948-rsmsg5um3muff0tjpp27vbdreuaiteh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feliz.sitiosgo",
+            "certificate_hash": "1ab7e3ff462ec5216e735f6aa11b747c28466de2"
+          }
+        },
+        {
+          "client_id": "378588770948-u2u21fvnd690utjtmvi2ma4q69rgcjut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcf3J6N7akzuD1al2rRQzyTJAwjYQgJNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378588770948-u2u21fvnd690utjtmvi2ma4q69rgcjut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

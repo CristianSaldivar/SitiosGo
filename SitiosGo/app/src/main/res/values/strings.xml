@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SitiosGo</string>
+    <string name="facebook_app_id">2060275167587184</string>
+    <string name="fb_login_protocol_scheme">fb2060275167587184</string>
+    <string name="cancel_login">Operación inválida</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="firebase_error_login">Ocurrió un error en la sesión</string>
+    <!--string name="default_web_client_id">Ha ingresado</string-->
+</resources>
