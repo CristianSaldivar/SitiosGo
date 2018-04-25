@@ -35,6 +35,8 @@ import com.google.firebase.auth.GoogleAuthProvider;
 
 import java.util.Arrays;
 
+//Inicio de sesion con Facebook y Gmail. 
+
 public class SGLoginFacebook extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener{
 
     //Se instancián en el método onCreate()
